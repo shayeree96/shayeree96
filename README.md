@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning traditional methods of computer vision and applications of deep learning in reinforcement learning
 - 👯 I’m looking to collaborate on new ideas and projects in Deep Learning and Computer Vision 
 - 🤔 I’m looking for help with finding full time opportunities in the United States
-- 💬 Ask me about my research work, my recet projects 
+- 💬 Ask me about my research work, my recent projects 
 - 📫 How to reach me: shayeres@andrew.cmu.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: All I think about other than my research is what to eat next
