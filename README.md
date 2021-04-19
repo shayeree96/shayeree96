@@ -1,7 +1,6 @@
 ### Hi there, I'm Shayeree Sarkar, I'm a Deep Learning enthusiast 👋
-
+- 👯 I'm a Masters Student in the ECE Department at Carnegie Mellon University, Pittsburgh. My research focuses on Deep Learning applications in Machine Vision
 - 🔭 I’m currently working on radar sensor fusion with sterero image data from NuScenes Dataset for detecting objects in 2D around the vehicle as a part of the Perception team at Retrofit AI
-- 👯 I’m looking to collaborate on new ideas and projects in Deep Learning and Computer Vision 
 - 🤔 I’m looking for full time opportunities as a Machine Learning Engineer in the United States
 - 💬 Ask me about my research work, my recent projects 
 - To know more about my profile : https://www.linkedin.com/in/shayeree-sarkar/
